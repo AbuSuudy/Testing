@@ -1,3 +1,9 @@
+/*
+Test each branch in the if statment of the Morgage class i.e
+branch for when condition is true and when it's false
+this would be a form of white box text Cp (all coverage)
+*/
+
 import static org.junit.Assert.*;
 import org.junit.Test;
 
