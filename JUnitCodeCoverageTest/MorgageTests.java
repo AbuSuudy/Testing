@@ -54,10 +54,4 @@ public class MorgageTests {
     public void Test11() {
             assertEquals(0, Mortgage.calculateMortgage(17, 1000, null));
     }  
-    
-    
-    
-
-  
-
 }
